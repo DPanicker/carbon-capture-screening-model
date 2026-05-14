@@ -1,0 +1,8 @@
+naics_sector,naics_desc,facilities,avg_sector_emissions,ccs_candidates
+21,Conventional Oil and Gas Extraction,85,1018900.0988194773,73
+22,Fossil-Fuel Electric Power Generation,27,1713692.7260128441,26
+31,Beef cattle slaughtering,1,219340.5076,0
+32,Chemical Fertilizer (except Potash) Manufacturing,31,631448.9733204907,27
+33,Non-Ferrous Metal (except Aluminum) Smelting and Refining,1,308341.91501500004,1
+48,Pipeline Transportation of Natural Gas,4,1012982.0177724999,2
+61,Universities,1,210359.06551333333,1
